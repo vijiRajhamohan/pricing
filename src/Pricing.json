@@ -1,0 +1,123 @@
+[
+    {
+      "name": "FREE",
+      "price": "0",
+      "currency": "$",
+      "pricePer": "/month",
+      "features": [
+        {
+          "name": "isSingleUser",
+          "access": true
+        },
+        {
+          "name": "isSGBStorage",
+          "access": true
+        },
+        {
+          "name": "isUnlimitedPublicProject",
+          "access": true
+        },
+        {
+          "name": "isCummunityAccess",
+          "access": true
+        },
+        {
+          "name": "isUnlimitedPrivateProject",
+          "access": false
+        },
+        {
+          "name": "isDedicated",
+          "access": false
+        },
+        {
+          "name": "isFreeSubDomain",
+          "access": false
+        },
+        {
+          "name": "isMonthlyReport",
+          "access": false
+        }
+      ]
+    },
+    {
+      "name": "PLUS",
+      "price": "9",
+      "currency": "$",
+      "pricePer": "/month",
+      "features": [
+        {
+          "name": "isSingleUser",
+          "access": true
+        },
+        {
+          "name": "isSGBStorage",
+          "access": true
+        },
+        {
+          "name": "isUnlimitedPublicProject",
+          "access": true
+        },
+        {
+          "name": "isCummunityAccess",
+          "access": true
+        },
+        {
+          "name": "isUnlimitedPrivateProject",
+          "access": true
+        },
+        {
+          "name": "isDedicated",
+          "access": true
+        },
+        {
+          "name": "isFreeSubDomain",
+          "access": true
+        },
+        {
+          "name": "isMonthlyReport",
+          "access": false
+        }
+      ]
+    },
+    {
+      "name": "PRO",
+      "price": "49",
+      "currency": "$",
+      "pricePer": "/month",
+      "features": [
+        {
+          "name": "isSingleUser",
+          "access": true
+        },
+        {
+          "name": "isSGBStorage",
+          "access": true
+        },
+        {
+          "name": "isUnlimitedPublicProject",
+          "access": true
+        },
+        {
+          "name": "isCummunityAccess",
+          "access": true
+        },
+        {
+          "name": "isUnlimitedPrivateProject",
+          "access": true
+        },
+        {
+          "name": "isDedicated",
+          "access": true
+        },
+        {
+          "name": "isFreeSubDomain",
+          "access": true
+        },
+        {
+          "name": "isMonthlyReport",
+          "access": true
+        }
+      ]
+    }
+  ]
+  
